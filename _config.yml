@@ -1,6 +1,6 @@
-title: "Bijoychandra Takhellambam"
-author: "Bijoychandra S. Takhellambam"
-description: "Purdue University"
+title: "Suranjoy Singam"
+author: "Suranjoy Singam"
+description: "CNHIndustrial"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -22,17 +22,16 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Research.md", title: "Research"} 
   - {file: "Publications.md", title: "Publications"}
   - {file: "Teaching.md", title: "Teaching"}
-  - {file: "Honors_awards.md", title: "Honors & Awards"}
-  #- {url: "File/Bijoychandra_Vitae.pdf", title: Vitae} 
+  - {file: "Honors_awards.md", title: "Honors & Awards"}  
   - {file: "index.md", title: "Home"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:tbijoych@purdue.edu"}
-  - {title: Github, icon: github, url: "https://github.com/bijoychandraAU"}
-  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/bijoychandra/"}
-  #- {title: CustomIcon, icon: File/Google_Scholar_logo.svg, url: "https://scholar.google.com/citations?user=I6bZieUAAAAJ&hl=en"}
-  #- {title: researchgate, icon: researchgate, url: "https://www.researchgate.net/profile/Bijoychandra-Takhellambam"}
-  #- {title: Twitter, icon: twitter, url: "https://twitter.com/takhellambam"}
+  - {title: Mail, icon: envelope, url: "mailto:suranjoy.singam@cnhind.com"}
+  - {title: Github, icon: github, url: "https://github.com/Suranjoy1425"}
+  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/suranjoy-singam-phd-521591a3/"}
+  #- {title: CustomIcon, icon: File/Google_Scholar_logo.svg, url: "https://scholar.google.com/citations?user=QLhj2j4AAAAJ&hl=en"}
+  #- {title: researchgate, icon: researchgate, url: "https://www.researchgate.net/profile/Suranjoy-Singam"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/suranjoysingam"}
 
 
 comments:

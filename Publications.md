@@ -4,31 +4,49 @@ title: "Publications"
 ---
 
 ## Peer-reviewed
-[8]. **Takhellambam, B. S.**, Srivastava, P., Lamba, J., Zhao, W., Kumar, H., Tian, D., & Molinari, R. (2024). **Artificial neural network-empowered projected future rainfall intensity-duration-frequency curves under changing climate**. Atmospheric Research, 297, 107122. [https://doi.org/10.1016/j.atmosres.2023.107122](https://doi.org/10.1016/j.atmosres.2023.107122).
+[20].	**Singh, S. S.**, Zaitoon, A., Lim, L.T., Manickavasagan, A., & Sharma, S. (2023). Lignocellulosic Biomass (LCB) as a Feedstock for Cellulose and Lignin:  Pre-treatment, Modifications, and Potential Applications. **Science of the Total Environment**. (Submitted)
 
-[7].	Kumar, H., Srivastava, P., Lamba, J., Lena, B., Diamantopoulos, E., Ortiz, B., **Takhellambam, B.S.**, Morata, G., Bondesan, L., 2023. **A methodology to optimize site-specific field capacity and irrigation thresholds**. Agricultural Water Management 286, 108385. [https://doi.org/10.1016/j.agwat.2023.108385](https://doi.org/10.1016/j.agwat.2023.108385)
+[19].	Zaitoon, A., Jabeen, A., **Singh, S. S.**, Scott-Dupree, C., & Lim, L. T. (2024). Deliquescence-induced release of ethyl formate and chlorine dioxide gases from their precursors-loaded sachets for in-package fumigation of spotted-wing drosophila (_Drosophila Suzukii_ Matsumura). **Packaging Technology and Science**, 1-12. [doi.org/10.1002/pts.2790](https://doi.org/10.1002/pts.2790) 
 
-[6].	Zhao, W., Abhishek, A., **Takhellambam, B.S.**, Zhang, J., Zhao, Y., Kinouchi, T., 2023. **Spatiotemporal variability of current and future sub-daily rainfall in Japan using state-of-the-art high-quality datasets**. Water Resource Research 59, e2022WR03430. [doi.org/10.1029/2022WR034305]( https://doi.org/10.1029/2022WR034305)
+[18].	Zaitoon, A., Anguraj, V., **Singh, S. S.**, Ahenkorah, C., Al-Abdul-Wahid, M. S., Warriner, K., & Lim, L. T. (2023). Salicylaldehyde-functionalized polyethyleneimine precursor: Synthesis, characterization, and encapsulation in electrospun nonwoven for moisture-triggered release applications. **Chemical Engineering Journal**, 476, 146462. [doi.org/10.1016/j.cej.2023.146462]( https://doi.org/10.1016/j.cej.2023.146462)
 
-[5].	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., McGehee, R.P., Kumar, H., Tian, D., 2022. **Projected mid-century rainfall erosivity under climate change over the southeastern United States**. Science of The Total Environment. 161119.[doi.org/10.1016/j.scitotenv.2022.161119](https://doi.org/10.1016/j.scitotenv.2022.161119)
+[17].	Sharma, S., Hayder, A., Pradhan, R., Manickavasagan, A., Thimmanagari, M., **Singh, S. S.**, Das, A.A., & Dutta, A. (2023). Corn distillers solubles as a plant-based bioresource for proteins and bioactive peptides: Current status and bioprospects- a critical review. **Food Reviews International**, 1-46. [10.1080/87559129.2023.2177672](https://10.1080/87559129.2023.2177672)
 
-[4].	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., McGehee, R.P., Kumar, H., Tian, D., 2022. **Temporal disaggregation of hourly precipitation under changing climate over the Southeast United States**. Scientific Data 9, 11. [doi.org/10.1038/s41597-022-01304-7](https://doi.org/10.1038/s41597-022-01304-7)
+[16].	**Singh, S. S.**, Zaitoon, A., Arvaj, L., Balamurugan, S., Manickavasagan, A., & Lim, L.T. (2023). Biobased Antiviral Nonwoven Mask Filter with High Filtration Performance. **ACS Applied Engineering Materials**, 1(1), 646–659. [doi.org/10.1021/acsaenm.2c001617](https://doi.org/10.1021/acsaenm.2c00161)
 
-[3].	Kumar, H., Srivastava, P., Lamba, J., Diamantopoulos, E., Ortiz, B., Morata, G., **Takhellambam, B.S.**, Bondesan, L., 2022. **Site-specific irrigation scheduling using one-layer soil hydraulic properties and inverse modeling**. Agricultural Water Management 273, 107877. [doi.org/10.1016/j.agwat.2022.107877](https://doi.org/10.1016/j.agwat.2022.107877)
+[15].	**Singh, S. S.**, Zaitoon, A., Sharma, S., Manickavasagan, A., & Lim, L.T. (2022). Enhanced hydrophobic paper-sheet derived from _Miscanthus × giganteus_ cellulose fibers coated with modified lignin and cellulose acetate blend. **International Journal of Biological Macromolecules**, 223, 1243-1256. [doi.org/10.1016/j.ijbiomac.2022.11.066](https://doi.org/10.1016/j.ijbiomac.2022.11.066)
 
-[2].	Kumar, H., Srivastava, P., Lamba, J., Ortiz, B.V., Way, T.R., Sangha, L., **Takhellambam, B.S.**, Morata, G., Molinari, R., 2022.**Within-field variability in nutrients for site-specific agricultural management in irrigated cornfield**. Journal of ASABE,65, 865–880. [doi.org/10.13031/ja.15042](https://doi.org/10.13031/ja.15042)
+[14].	Vivek, K., Mishra, S., Pradhan, R. C., Nagarajan, M., Kumar, P.K., **Singh, S. S.**, Manvi, D., & Gowda, N.A.N. (2022). A Comprehensive Review on Microencapsulation of probiotics: Technology, Carriers and Current Trends. **Applied Food Research**, 100248. [doi.org/10.1016/j.afres.2022.100248](https://doi.org/10.1016/j.afres.2022.100248)
 
-[1].	Kumar, H., Srivastava, P., Ortiz, B.V., Morata, G., **Takhellambam, B.S.**, Lamba, J., Bondesan, L., 2021. **Field-scale spatial and temporal soil water variability in irrigated croplands**. Transactions of the ASABE,1277–1294. [doi.org/10.13031/trans.14335](https://doi.org/10.13031/trans.14335)
+[13].	Sharma, S., Pradhan, R., Manickavasagan, A., Thimmanagari, M., Saha, D., **Singh, S. S.**, & Dutta, A. (2022). Production of antioxidative protein hydrolysates from corn distillers solubles: Process optimization, antioxidant activity evaluation, and peptide analysis. **Industrial Crops and Products**, 184, 115107. [doi.org/10.1016/j.indcrop.2022.115107](https://doi.org/10.1016/j.indcrop.2022.115107)
 
+[12] **Singh, S. S.**, Lim, L. T., & Manickavasagan, A. (2022). Enhanced Microfibrillation of _Miscanthus × giganteus_ Biomass by Binary-Enzymes Pre-treatment. **Industrial Crops and Products**, 177, 114537. [doi.org/10.1016/j.indcrop.2022.114537](https://doi.org/10.1016/j.indcrop.2022.114537)
 
-## Other publications
+[11] Vivek, K., **Singh, S. S.**, Sasikumar, R., & Sami, R. (2021). Consumer preference study on combined ultrasound and sodium hypochlorite treated fresh-cut kiwifruits coated with chitosan using the fuzzy logic approach: Sensory study of chitosan-coated fresh-cut kiwi fruits. **Journal of Microbiology, Biotechnology, and Food Sciences**, e4054-e4054. [doi.org/10.15414/jmbfs.4054](https://doi.org/10.15414/jmbfs.4054)
 
-[2].	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., McGehee, R.P., Kumar, H., Tian, D., 2022. **Projected rainfall erosivity under climate change in the southeastern united states**, in: ASABE Paper No. 2200176. Presented at the Annual International Meeting, ASABE, St. Joseph, MI, p. 1.[doi.org/10.13031/aim.202200176](https://doi.org/10.13031/aim.202200176)
+[10] **Singh, S. S., Lim**, L. T., & Manickavasagan, A. (2020). Ultrasound-Assisted Alkali-Urea Pre-treatment of _Miscanthus× giganteus_ for Enhanced Extraction of Cellulose fiber. **Carbohydrate Polymers**, 116758.[doi.org/10.1016/j.carbpol.2020.116758](https://doi.org/10.1016/j.carbpol.2020.116758)
 
-[1].	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., Zhao, W., Kumar, H., Tian, D., 2022. **Assessment of projected change in Intensity-duration-frequency (IDF) curves for Southeastern, United States using Artificial Neural Networks.**, in: ASABE Paper No. 2200175. Presented at the Annual International Meeting, ASABE, St. Joseph, MI, p. 1.[doi.org/10.13031/aim.202200175](https://doi.org/10.13031/aim.202200175)
+[9] **Singh, S. S.**, Lim, L. T., & Manickavasagan, A. (2020). Imaging and spectroscopic techniques for microstructural and compositional analysis of lignocellulosic materials: a review. **Biomass Conversion and Biorefinery**, 1-19. [doi.org/10.1007/s13399-020-01075-4](https://doi.org/10.1007/s13399-020-01075-4)
 
-## Submitted/ Under Review
+[8] Vivek, K., KV, S. R., **Singh, S. S.**, & Mishra, S. (2019). Engineering properties and shelf life of freshly harvested Indian kiwi cultivars for facilitating primary processing. **Carpathian Journal of Food Science & Technology**, 11(3). [doi.org/10.34302/crpjfst/2019.11.3.10](https://doi.org/10.34302/crpjfst/2019.11.3.10)
 
-[1].	**Takhellambam, B.S.**, Srivastava, P., Lamba, J., Kumar, H., Molinari, R., 2023. **Quantifying Uncertainty of Rainfall Intensity-Duration-Frequency Curves Using Artificial Neural Network and Bootstrapping Resampling Technique**. Stochastic Environmental Research and Risk Assessment (Under Review) 
+[7] **Singh, S. S.**, Abdullah, S., Pradhan, R. C., & Mishra, S. (2019). Physical, chemical, textural, and thermal properties of cashew apple fruit. **Journal of Food Process Engineering**, 42(5), e1394. [doi.org/10.15414/jmbfs.2019.8.5.1178-1187](https://doi.org/10.15414/jmbfs.2019.8.5.1178-1187)
 
+[6] Vivek, K., **Singh, S. S.**, & Pradhan, R. C. (2019). A review on postharvest management and advances in the minimal processing of fresh-cut fruits and vegetables. **Journal of Microbiology, Biotechnology and Food Sciences**, 2019, 1178-1187. [doi.org/10.15414/jmbfs.2019.8.5.1178-1187](https://doi.org/10.15414/jmbfs.2019.8.5.1178-1187)
+
+[5]	Ghodki, B. M., **Singh, S. S.**, Chakraborty, S., Jana, S., Ghodki, B. M., & Goswami, T. K. (2019). Influence of cryogenic treatment on micro-structural characteristics of some Indian spices: X-ray micro-tomography investigation. **Journal of Food Engineering**, 243, 39-48. [doi.org/10.1016/j.jfoodeng.2018.08.033](https://doi.org/10.1016/j.jfoodeng.2018.08.033)
+
+[4]	**Singh, S. S.**, Mishra, S., Pradhan, R. C., & Vivek, K. (2019). Development of a microwave-assisted UV sterilization system for milk. **Acta Alimentaria**, 48(1), 9-17. [doi.org/10.1556/066.2018.0004](https://doi.org/10.1556/066.2018.0004)
+
+[3] **Singh, S. S.**, Mishra, S., Pradhan, R. C., & Vivek, K. (2018). Optimization of process parameters for microwave-assisted UV sterilization system for orange juice. **Carpathian Journal of Food Science & Technology**, 10(4)., 159-173.
+
+[2] **Singh, S. S.**, Ghodki, B. M., & Goswami, T. K. (2018). Effect of grinding methods on powder quality of king chilli. **Journal of Food Measurement and Characterization**, 12(3), 1686-[doi.org/10.1007/s11694-018-9784-6](1694.https://doi.org/10.1007/s11694-018-9784-6)
+
+[1]	Kusre, B. C., Bora, P. K., **Singh, S. S.**, Rai, D., Tana, A., & Subba, S. (2017). Combating water scarcity through roof water harvesting: planning and design with stakeholders' perception in Sikkim (India). **Water Science and Technology: Water Supply**, 17(3), 799-810. [doi.org/10.2166/ws.2016.180](https://doi.org/10.2166/ws.2016.180)
+
+## Book Chapters
+
+[2].	**Singh, S. S.**, & Ragavan, K. V. (2023). **Food Safety and Quality Testing: Recent Areas of Focus and Research Perspectives**. In: Hebbar, H.U., Sharma, R., Chaurasiya, R.S., Ranjan, S., Raghavarao, K. (eds) Engineering Aspects of Food Quality and Safety. Food Engineering Series. Springer, Cham. [doi.org/10.1007/978-3-031-30683-9_11](https://doi.org/10.1007/978-3-031-30683-9_11)
+
+[1].	**Singh, S. S.**, Pillai, K.P.S., & Ragavan, K. V. (2023). **Global regulatory frameworks for nanomaterials in food packaging**. Taylor & Francis. (Under review)
 
