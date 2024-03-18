@@ -3,50 +3,37 @@ layout: page
 title: "Honors & Awards"
 ---
 
-[24]. **Presentation [(Oral) Excellence Award, ASABE Annual International Meeting](https://asabe.org), Omaha, NE (2023)**
+[17]. **Three Minutes Thesis (3MT) Competitions**, University of Guelph, Canada; Prizes: 
+      **1st** – [2021](https://www.uoguelph.ca/ceps/news/2021/10/ceps-graduate-student-research-day-2021); [2022](https://www.uoguelph.ca/ceps/news/2022/03/2022-ceps-3mt-college-heat-winners); **2nd** – [2020](https://www.uoguelph.ca/ceps/news/2020/10/inaugural-ceps-graduate-student-research-day); **3rd** – [2022](https://graduatestudies.uoguelph.ca/3mt)
 
-[23]. [Graduate Research Paper Award, AABFEIO](https://asabe.org/AABFEIO), ASABE Annual International Meeting, Omaha, NE (2023)
+[16]. **Travel Fellowship**, Graduate Student Association, University of Guelph, Canada (2022)
 
-[22]. Travel Fellowship, Graduate Student Council, Auburn University, AL (2023)
+[15]. **International Doctoral Tuition Scholarship** [(IDTS)](https://graduatestudies.uoguelph.ca/current/funding/scholarships/internal), University of Guelph, Canada (2018-2022)
 
-[21]. Outstanding Research Paper Award, [SUGRS](https://sugrs.ua.edu/), University of Alabama (2023)
+[14]. **Arthur D. Latornell Travel Grant**, [(2019)](https://www.uoguelph.ca/registrar/studentfinance/apps/grawards?id=T5606), University of Guelph, Canada; **Theme**: “_Resource Reclamation and Value-Addition_” 
 
-[20]. [Auburn University’s Outstanding Doctoral Student Award](https://rb.gy/ddea3) (2023)
+[13]. **Laura Bassi Scholarship**, [(PhD)](https://editing.press/bassi), Special Recognition Award for Exceptional Research Project (2019)
 
-[19]. [Member Alpha Epsilon honorary society](https://www.asabe.org/engage) (2023)
+[12]. **[ICAR-NET & Agricultural Research Scientist (ARS) Main](http://asrb.org.in/)**, Government of India (2017, 2018)
 
-[18]. Winner Graduate Research Showcase Poster competition, AU, AL (2022)
+[11]. [**Merit fellowship for master's degree (IIT Kharagpur: 2015-17)**](https://www.aicte-india.org/schemes/students-development-schemes/PG-Scholarship-Scheme), Ministry of Human Resource Development, Government of India 
 
-[17]. Winner [Boyd-Scott Graduate Research Award](https://asabe.org/Boyd-Scott), Houston, TX (2022)
+[10]. **Graduate Aptitude Test in Engineering** (GATE), **All India Rank 82** (2015)
 
-[16]. Winner [Graduate Research Paper Award, AABFEIO, ASABE Annual International Meeting](https://asabe.org/AABFEIO), Houston, TX (2022)
+[9]. **[ICAR-Junior Research Fellow (JRF)](https://icar.nta.ac.in/)**, Government of India, **All India Rank 40** (2015)
 
-[15]. Registration waiver for Annual International Meeting (ASABE), Houston, TX (2022)
+[8]. Japanese Government Fellowship (Graduate Program in Remote Sensing and GIS), AIT, Bangkok, Thailand (2014)
 
-[14]. Registration waiver for HydroML symposium, Penn State University, PA (2022)
+[7]. Student Meritorious Scholarship, Northeast Council [**NEC**](https://necouncil.gov.in/nec-scholarship-guidelines), Government of India (2010-2014)
 
-[13]. Travel Fellowship, Graduate Student Council, Auburn University, AL (2022)
+[6]. **Second Prize**, North-Eastern Region Quiz Competition on Science Communication, CSIR-NEIST, India (2013)
 
-[12]. Travel Grant, NSF-Funded HydroML conference, Penn State University, PA (2022)
+[5]. State Merit Scholarship for Bachelor degree, Government of Manipur, India (2010-14)
 
-[11]. Travel Grant, American Geophysical Union (AGU) Fall Meeting, Virtual (2021)
+[4]. Indian Oil Merit Scholarships Scheme for Secondary Education, India (2008-10)
 
-[10]. Selected 5-day Waterhackweek workshop, University of Washington, Virtual (2020)
+[3]. Dakshana Foundation Scholarship, IIT-JEE Coaching Program, Guwahati, India (2008)
 
-[9]. Indian Council of Agricultural Research National Eligibility Test (ICAR-NET), India (2018)
+[2]. Selected to participate in the **Regional Science Congress**, Assam, India (2006)
 
-[8]. Merit fellowship for master degree, Ministry of Education, India (2014-16)
-
-[7]. Graduate Aptitude Test in Engineering (GATE), All India Rank 19, India (2014)
-
-[6]. Second in Intensive training program on science communication, India (2013)
-
-[5]. Merit fellowship Bachelor degree, Northeastern Council, India (2010-14)
-
-[4]. State Merit Scholarship for Bachelor degree, Government of Manipur, India (2010-14)
-
-[3]. Indian Oil Merit Scholarships Scheme for secondary education, India (2008-10)
-
-[2]. Dakshana Foundation Scholarship, IIT-JEE Coaching Program, Guwahati, India (2008)
-
-[1]. Jawahar Navodaya Vidyalaya Samiti Scholarship, Ministry of Education, India (2003-10)
+[1]. Jawahar Navodaya Vidyalaya Samiti Scholarship [**NVS**](https://navodaya.gov.in/nvs/en/Home1), Ministry of Education, India (2003-10)
