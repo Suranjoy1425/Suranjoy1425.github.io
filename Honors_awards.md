@@ -14,13 +14,13 @@ title: "Honors & Awards"
 
 [13]. **Laura Bassi Scholarship**, [(PhD)](https://editing.press/bassi), Special Recognition Award for Exceptional Research Project (2019)
 
-[12]. **[ICAR-NET & Agricultural Research Scientist (ARS) Main](http://asrb.org.in/)**, Government of India (2017, 2018)
+[12]. [ICAR-NET & Agricultural Research Scientist (ARS) Main](http://asrb.org.in/), Government of India (2017, 2018)
 
-[11]. [**Merit fellowship for master's degree (IIT Kharagpur: 2015-17)**](https://www.aicte-india.org/schemes/students-development-schemes/PG-Scholarship-Scheme), Ministry of Human Resource Development, Government of India 
+[11]. [Merit fellowship for master's degree (IIT Kharagpur: 2015-17)](https://www.aicte-india.org/schemes/students-development-schemes/PG-Scholarship-Scheme), Ministry of Human Resource Development, Government of India 
 
-[10]. **Graduate Aptitude Test in Engineering** (GATE), **All India Rank 82** (2015)
+[10]. Graduate Aptitude Test in Engineering (GATE), **All India Rank 82** (2015)
 
-[9]. **[ICAR-Junior Research Fellow (JRF)](https://icar.nta.ac.in/)**, Government of India, **All India Rank 40** (2015)
+[9]. [ICAR-Junior Research Fellow (JRF)](https://icar.nta.ac.in/), Government of India, **All India Rank 40** (2015)
 
 [8]. Japanese Government Fellowship (Graduate Program in Remote Sensing and GIS), AIT, Bangkok, Thailand (2014)
 
@@ -32,7 +32,7 @@ title: "Honors & Awards"
 
 [4]. Indian Oil Merit Scholarships Scheme for Secondary Education, India (2008-10)
 
-[3]. Dakshana Foundation Scholarship, IIT-JEE Coaching Program, Guwahati, India (2008)
+[3]. [Dakshana Foundation Scholarship](https://www.dakshana.org/), IIT-JEE Coaching Program, Guwahati, India (2008)
 
 [2]. Selected to participate in the **Regional Science Congress**, Assam, India (2006)
 
