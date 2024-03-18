@@ -16,7 +16,7 @@ title: "Honors & Awards"
 
 [12]. [ICAR-NET & Agricultural Research Scientist (ARS) Main](http://asrb.org.in/), Government of India (2017, 2018)
 
-[11]. [Merit fellowship for master's degree (IIT Kharagpur: 2015-17)](https://www.aicte-india.org/schemes/students-development-schemes/PG-Scholarship-Scheme), Ministry of Human Resource Development, Government of India 
+[11]. [Merit fellowship for master's degree (IIT Kharagpur: 2015-17)](https://www.aicte-india.org/schemes/students-development-schemes/PG-Scholarship-Scheme), MHRD, Government of India 
 
 [10]. Graduate Aptitude Test in Engineering (GATE), **All India Rank 82** (2015)
 
