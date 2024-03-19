@@ -8,7 +8,7 @@ Currently, as a co-instructor, I am teaching two undergraduate courses.
 # Teaching Assistant & Tutoring:
 During my PhD program at the <a href="https://www.uoguelph.ca/">University of Guelph</a>, I worked as a Teaching Assistant for the following courses: 
 <div>
-    <img align="left" width="200" src="/File/Density.png" style="margin-right: 20px;">
+    <img align="left" width="200" src="/File/R_data.png" style="margin-right: 20px;">
     <p><strong> 3.R Programming for Data Science</strong><br>
   The goal of this course is to use the R language to introduce students to data science. Additionally, it will introduce students to the concepts of reproducible research, result sharing, version control (using GitHub), and data management and modification. By the end of the course, learners need to be able to generate dynamic reports and interactive web applications for data visualization and analysis. Additionally, students ought to be able to create their own R packages, publish them on GitHub, and use literate programming to document them.</p>
 </div>
