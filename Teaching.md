@@ -41,7 +41,7 @@ This course examines food processing and the intersections of chemistry, microbi
 <p><strong> 6. <a href="https://www.uoguelph.ca/registrar/calendars/undergraduate/2020-2021/courses/food2620.shtml">Food Engineering Principles</strong><be> 
 This course provides an overview of engineering fundamentals applied in food processing, encompassing concepts such as heat transfer, fluid dynamics, material and energy balances, as well as instrumentation and process control principles.</p> 
 
-# Co-Instructor:
+# Mentoring:
 
 <div>
     Currently, as a co-instructor, I am teaching two undergraduate courses. 
