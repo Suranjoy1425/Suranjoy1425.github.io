@@ -4,12 +4,17 @@ layout: post
 categories: media
 ---
 
-During my PhD program at the <a href="https://www.uoguelph.ca/">University of Guelph</a>, I worked as a Teaching Assistant for the following courses: 
+During my PhD program at the [University of Guelph](https://www.uoguelph.ca/), I worked as a Teaching Assistant for the following courses:
+
 <div>
-    <img align="left" width="200" src="/File/Density.png" style="margin-right: 20px;">
-    <p>1. <a href="https://www.uoguelph.ca/engineering/system/files/3430_3.pdf">Heat & Mass Transfer<br>
- This course is to introduce the basic principles of heat and mass transfer with emphasis on their analysis and applications to practical engineering problems.</p>
- </div>
+    <img align="left" width="220" src="/File/Density.png" style="margin-right: 20px;">
+
+<div>
+    <img align="left" width="220" src="/File/Density.png" style="margin-right: 20px;">
+    <p>1. <a href="https://www.uoguelph.ca/engineering/system/files/3430_3.pdf">Heat & Mass Transfer</a><br>
+    This course is to introduce the basic principles of heat and mass transfer with emphasis on their analysis and applications to practical engineering problems.</p>
+</div
+
 
 
 <img align="left" width="240" src="/File/Picture3.png" style="margin-right: 20px;">
