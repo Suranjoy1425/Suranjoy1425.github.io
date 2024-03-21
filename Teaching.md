@@ -8,20 +8,18 @@ During my PhD program at the [University of Guelph](https://www.uoguelph.ca/), I
 
 <div>
     <img align="left" width="220" src="/File/Density.png" style="margin-right: 20px;">
-
-<div>
-    <img align="left" width="220" src="/File/Density.png" style="margin-right: 20px;">
     <p>1. <a href="https://www.uoguelph.ca/engineering/system/files/3430_3.pdf">Heat & Mass Transfer</a><br>
     This course is to introduce the basic principles of heat and mass transfer with emphasis on their analysis and applications to practical engineering problems.</p>
-</div
+ </div>
 
+<div style="clear:both;"></div>
 
-
+ <div>   
 <img align="left" width="240" src="/File/Picture3.png" style="margin-right: 20px;">
-
-<p> 2. <a href="https://www.uoguelph.ca/engineering/course-outlines/material-science-engg2120">Material Science<br>
+      <p>2. <a href="href="https://www.uoguelph.ca/engineering/course-outlines/material-science-engg2120">Material Science</a><br>      
 This course offers an introduction to materials science, focusing on the atomic or molecular structures of metals, polymers, ceramics, and composites. Students will explore how these structures affect mechanical, electrical, and thermal properties. Variations in material properties often stem from differences in atomic structure.</p>
  </div>
+
 
 
  <img align="left" width="210" src="/File/Packaging mat.PNG" style="margin-right: 20px;">
