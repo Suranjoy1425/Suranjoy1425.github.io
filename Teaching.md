@@ -7,19 +7,20 @@ categories: media
 During my PhD program at the <a href="https://www.uoguelph.ca/">University of Guelph</a>, I worked as a Teaching Assistant for the following courses: 
 <div>
     <img align="left" width="180" src="/File/Density.png" style="margin-right: 20px;">
-    <p><strong> 1. <a href="https://www.uoguelph.ca/engineering/system/files/3430_3.pdf">Heat & Mass Transfer</strong><br>
+    <p>1. <a href="https://www.uoguelph.ca/engineering/system/files/3430_3.pdf">Heat & Mass Transfer<br>
  This course is to introduce the basic principles of heat and mass transfer with emphasis on their analysis and applications to practical engineering problems.</p>
  </div>
 
 
 <img align="left" width="200" src="/File/Picture3.png" style="margin-right: 20px;">
 
-<p><strong> 2. <a href="https://www.uoguelph.ca/engineering/course-outlines/material-science-engg2120">Material Science</strong><be>
+<p>> 2. <a href="https://www.uoguelph.ca/engineering/course-outlines/material-science-engg2120">Material Science<br>
 This course offers an introduction to materials science, focusing on the atomic or molecular structures of metals, polymers, ceramics, and composites. Students will explore how these structures affect mechanical, electrical, and thermal properties. Variations in material properties often stem from differences in atomic structure.</p>
  </div>
 
 
  <img align="left" width="190" src="/File/Packaging mat.PNG" style="margin-right: 20px;">
+ 
 <p><strong> 3. <a href="https://www.uoguelph.ca/engineering/course-outlines/material-science-engg2120">Food Packaging</strong><be>
 The course analyzes the roles of packaging in food preservation systems through an overview of contemporary packaging materials, their characteristics, manufacturing techniques, and their tailored uses for particular products. Furthermore, it will cover regulatory, environmental, and market factors affecting decisions in food packaging selection.</p>
 </div>
