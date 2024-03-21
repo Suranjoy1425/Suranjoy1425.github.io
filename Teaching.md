@@ -55,6 +55,13 @@ This course provides an overview of engineering fundamentals applied in food pro
 <div style="clear:both;"></div>
 
 
+# RESEARCH EXPERIENCES
+<div>
+    <img align="left" width="200" src="/File/VIC.PNG" style="margin-right: 20px;">    
+    <p><strong>Model Development of Variable Infiltration Capacity (VIC)</strong><br>
+    Drainage or tile drainage for sub-surface is essential for water nutrient management in high-water table areas.</p>
+</div>
+
 
 # Mentoring:
 
