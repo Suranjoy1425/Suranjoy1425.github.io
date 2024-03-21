@@ -56,7 +56,7 @@ This course provides an overview of engineering fundamentals applied in food pro
 <div>
 
 
-#Mentoring:
+# Mentoring:
 
 <div>
 <img align="left" width="300" src="/File/Mentoring.png" style="margin-right: 20px;">
