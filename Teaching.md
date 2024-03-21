@@ -41,14 +41,15 @@ This course offers students insights into (i) solid waste generation and composi
 
 <div style="clear:both;"></div>
 
-<p><strong> 5. <a href="https://courses.opened.uoguelph.ca/search/publicCourseSearchDetails.do?method=load&courseId=18748">Introduction to Food Processing</a><br>
+<div>
+<p> 5. <a href="https://courses.opened.uoguelph.ca/search/publicCourseSearchDetails.do?method=load&courseId=18748">Introduction to Food Processing</a><br>
 This course examines food processing and the intersections of chemistry, microbiology, and engineering within this field. Topics cover high and low-temperature processes, moisture control including intermediate moisture foods, concentration, dehydration processes, and innovative food processing methods.</p> 
 </div>
 
 <div style="clear:both;"></div>
 
 <div>
-<p><strong> 6. <a href="https://www.uoguelph.ca/registrar/calendars/undergraduate/2020-2021/courses/food2620.shtml">Food Engineering Principles</a><br> 
+<p> 6. <a href="https://www.uoguelph.ca/registrar/calendars/undergraduate/2020-2021/courses/food2620.shtml">Food Engineering Principles</a><br> 
 This course provides an overview of engineering fundamentals applied in food processing, encompassing concepts such as heat transfer, fluid dynamics, material and energy balances, as well as instrumentation and process control principles.</p> 
 <div>
 
