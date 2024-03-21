@@ -3,8 +3,6 @@ title: "Teaching Assistant & Tutoring:"
 layout: post
 categories: media
 ---
-#Mentor
-
 During my PhD program at the [University of Guelph](https://www.uoguelph.ca/), I worked as a Teaching Assistant for the following courses:
 
 <div>
