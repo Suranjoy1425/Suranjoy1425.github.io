@@ -56,12 +56,13 @@ This course provides an overview of engineering fundamentals applied in food pro
 <div>
 
 
-# Mentoring
-
-
-
+---
+title: "Mentoring:"
+layout: post
+categories: media
+---
 <div>
-<img align="left" width="220" src="/File/Mentoring.png" style="margin-right: 20px;">
+<img align="left" width="250" src="/File/Mentoring.png" style="margin-right: 20px;">
 In addition to my research and teaching experiences, I have experience training and mentoring undergraduate and graduate students in research and have even published a paper with one of them. Furthermore, in my industrial role as an Advanced Sustainability Materials Engineer at CNH Industrial, I had the responsibility of training two summer interns on their projects last year. I provided them with hands-on experience in laboratory techniques, experimental design, and data analysis, while also imparting insights into the practical applications of sustainable materials in an industrial setting. Currently, as a co-advisor to a PhD student working on a company-university collaboration project at the University of Saskatchewan, I am actively involved in guiding and designing the research work of the student. 
 
 
