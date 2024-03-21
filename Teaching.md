@@ -6,27 +6,27 @@ categories: media
 
 During my PhD program at the <a href="https://www.uoguelph.ca/">University of Guelph</a>, I worked as a Teaching Assistant for the following courses: 
 <div>
-    <img align="left" width="180" src="/File/Density.png" style="margin-right: 20px;">
+    <img align="left" width="220" src="/File/Density.png" style="margin-right: 20px;">
     <p>1. <a href="https://www.uoguelph.ca/engineering/system/files/3430_3.pdf">Heat & Mass Transfer<br>
  This course is to introduce the basic principles of heat and mass transfer with emphasis on their analysis and applications to practical engineering problems.</p>
  </div>
 
 
-<img align="left" width="200" src="/File/Picture3.png" style="margin-right: 20px;">
+<img align="left" width="240" src="/File/Picture3.png" style="margin-right: 20px;">
 
 <p> 2. <a href="https://www.uoguelph.ca/engineering/course-outlines/material-science-engg2120">Material Science<br>
 This course offers an introduction to materials science, focusing on the atomic or molecular structures of metals, polymers, ceramics, and composites. Students will explore how these structures affect mechanical, electrical, and thermal properties. Variations in material properties often stem from differences in atomic structure.</p>
  </div>
 
 
- <img align="left" width="190" src="/File/Packaging mat.PNG" style="margin-right: 20px;">
+ <img align="left" width="210" src="/File/Packaging mat.PNG" style="margin-right: 20px;">
  
 <p>3. <a href="https://www.uoguelph.ca/engineering/course-outlines/material-science-engg2120">Food Packaging<br>
 The course analyzes the roles of packaging in food preservation systems through an overview of contemporary packaging materials, their characteristics, manufacturing techniques, and their tailored uses for particular products. Furthermore, it will cover regulatory, environmental, and market factors affecting decisions in food packaging selection.</p>
 </div>
 
 
-<img align="left" width="200" src="/File/Guelph.png" style="margin-right: 20px;">
+<img align="left" width="220" src="/File/Guelph.png" style="margin-right: 20px;">
 <p><strong> 4. <a href="https://www.uoguelph.ca/engineering/system/files/4340.pdf">Solid & Hazardous Waste Management</strong><be> 
 
 This course offers students insights into (i) solid waste generation and composition, (ii) its physical and chemical properties, (iii) various treatment and disposal options, (iv) associated impacts—both positive and negative, and (v) cross-media concerns related to solid and hazardous waste treatment.</p> 
