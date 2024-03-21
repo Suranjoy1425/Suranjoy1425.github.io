@@ -6,7 +6,7 @@ categories: media
 
 During my PhD program at the <a href="https://www.uoguelph.ca/">University of Guelph</a>, I worked as a Teaching Assistant for the following courses: 
 <div>
-    <img align="left" width="220" src="/File/Density.png" style="margin-right: 20px;">
+    <img align="left" width="200" src="/File/Density.png" style="margin-right: 20px;">
     <p>1. <a href="https://www.uoguelph.ca/engineering/system/files/3430_3.pdf">Heat & Mass Transfer<br>
  This course is to introduce the basic principles of heat and mass transfer with emphasis on their analysis and applications to practical engineering problems.</p>
  </div>
