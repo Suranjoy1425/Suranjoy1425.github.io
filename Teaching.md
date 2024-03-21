@@ -3,6 +3,7 @@ title: "Teaching Assistant & Tutoring:"
 layout: post
 categories: media
 ---
+#Mentor
 
 During my PhD program at the [University of Guelph](https://www.uoguelph.ca/), I worked as a Teaching Assistant for the following courses:
 
@@ -53,7 +54,7 @@ This course examines food processing and the intersections of chemistry, microbi
 This course provides an overview of engineering fundamentals applied in food processing, encompassing concepts such as heat transfer, fluid dynamics, material and energy balances, as well as instrumentation and process control principles.</p> 
 <div>
 
-# Mentoring:
+#Mentoring:
 
 
 
