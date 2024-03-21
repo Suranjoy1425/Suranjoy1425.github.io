@@ -4,7 +4,8 @@ layout: post
 categories: media
 ---
 
-# Teaching Assistant
+# Teaching Assistant:
+
 During my PhD program at the [University of Guelph](https://www.uoguelph.ca/), I worked as a Teaching Assistant for the following courses:
 
 <div>
@@ -56,6 +57,7 @@ This course provides an overview of engineering fundamentals applied in food pro
 
 <div style="clear:both;"></div>
 
+
 # Mentoring:
 
 <div>
@@ -63,7 +65,6 @@ This course provides an overview of engineering fundamentals applied in food pro
 In addition to my research and teaching experiences, I have experience training and mentoring undergraduate and graduate students in research and have even published a paper with one of them. Furthermore, in my industrial role as an Advanced Sustainability Materials Engineer at CNH Industrial, I had the responsibility of training two summer interns on their projects last year. I provided them with hands-on experience in laboratory techniques, experimental design, and data analysis, while also imparting insights into the practical applications of sustainable materials in an industrial setting. Currently, as a co-advisor to a PhD student working on a company-university collaboration project at the University of Saskatchewan, I am actively involved in guiding and designing the research work of the student. 
 
 </div>
-
 
 
 
