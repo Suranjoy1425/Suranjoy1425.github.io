@@ -26,7 +26,7 @@ The course analyzes the roles of packaging in food preservation systems through 
 </div>
 
 
-<img align="left" width="220" src="/File/Guelph.png" style="margin-right: 20px;">
+<img align="left" width="230" src="/File/Guelph.png" style="margin-right: 20px;">
 <p><strong> 4. <a href="https://www.uoguelph.ca/engineering/system/files/4340.pdf">Solid & Hazardous Waste Management</strong><be> 
 
 This course offers students insights into (i) solid waste generation and composition, (ii) its physical and chemical properties, (iii) various treatment and disposal options, (iv) associated impacts—both positive and negative, and (v) cross-media concerns related to solid and hazardous waste treatment.</p> 
