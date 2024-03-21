@@ -16,7 +16,7 @@ During my PhD program at the [University of Guelph](https://www.uoguelph.ca/), I
 
  <div>   
 <img align="left" width="240" src="/File/Picture3.png" style="margin-right: 20px;">
-      <p>2. <a href="href="https://www.uoguelph.ca/engineering/course-outlines/material-science-engg2120">Material Science</a><br>      
+<p>2. <a href="https://www.uoguelph.ca/engineering/course-outlines/material-science-engg2120">Material Science</a><br>      
 This course offers an introduction to materials science, focusing on the atomic or molecular structures of metals, polymers, ceramics, and composites. Students will explore how these structures affect mechanical, electrical, and thermal properties. Variations in material properties often stem from differences in atomic structure.</p>
  </div>
 
@@ -33,7 +33,8 @@ The course analyzes the roles of packaging in food preservation systems through 
 
 <div>
 <img align="left" width="230" src="/File/Guelph.png" style="margin-right: 20px;">
-<p><strong> 4. <a href="https://www.uoguelph.ca/engineering/system/files/4340.pdf">Solid & Hazardous Waste Management</a><br>
+    
+<p>4. <a href="https://www.uoguelph.ca/engineering/system/files/4340.pdf">Solid & Hazardous Waste Management</a><br>
 
 This course offers students insights into (i) solid waste generation and composition, (ii) its physical and chemical properties, (iii) various treatment and disposal options, (iv) associated impacts—both positive and negative, and (v) cross-media concerns related to solid and hazardous waste treatment.</p> 
 </div>
