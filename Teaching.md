@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant & Tutoring:"
+title: ""
 layout: post
 categories: media
 ---
