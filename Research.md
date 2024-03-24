@@ -3,7 +3,7 @@ title: "RESEARCH"
 layout: post
 categories: media
 ---
-Overall goal of my research is sustainable developement. The changing climate and exponential population has demanded for Food and Water resources. TO meet this demands, my research aims to fulfill them through sustainalble mangameent of water resources. 
+In recent years, the escalating environmental concerns associated with single-use plastic packaging have prompted an urgent need for sustainable alternatives. My overarching research goal is to harness the untapped potential of locally available food and agricultural biomass wastes to create biodegradable biobased food packaging with advanced active functionalities, addressing crucial challenges in the field. Specifically, I aim to develop innovative packaging solutions that cater to diverse needs, including water-resistant paper-based packaging tailored for high-moisture foods, packaging incorporating super absorbents for enhanced freshness, and packaging with controlled release functions of active components, such as antimicrobials and insecticides. 
 
 # RESEARCH INTEREST 
 
