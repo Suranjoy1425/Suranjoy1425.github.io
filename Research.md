@@ -3,17 +3,18 @@ title: "RESEARCH"
 layout: post
 categories: media
 ---
-Overall goal of my research is sustainable developement. The changing climate and exponential population has demanded for Food and Water resources. TO meet this demands, my research aims to fulfill them through sustainalble mangameent of water resources. 
+In recent years, the escalating environmental concerns associated with single-use plastic packaging/products have prompted an urgent need for sustainable alternatives. My overarching research goal is to harness the untapped potential of locally available food, agricultural, and industrial biomass wastes to create advanced functional biobased materials. Primary research areas are the functionalization of cellulose and lignin-based materials. Special interest in electrospinning technique to develop biobased filter systems for applications such as antimicrobial and highly efficient air filters, and functional bioactive carrier systems in packaging applications. 
 
 # RESEARCH INTEREST 
 
-- **Climate impact assessment of water and environmental resources**
-- **Hydroclimatology**
-- **Remote Sensing**
-- **Hydrologic Extremes**
-- **Hydrological/hydraulic modeling**
-- **Deep Learning**
-- **Statistical analysis**
+- **Advanced functional food packaging**
+- **Food safety & security**
+- **Biomass pretreatment and modifications**
+- **Natural fibres- or bioplastics-based biocomposites**
+- **Functional nanostructured polymers**
+- **Electrospinning technology**
+- **Biodegradable/compostable sustainable polymers for packaging, food, or agriculture applications**
+
 
 
 # RESEARCH EXPERIENCES
