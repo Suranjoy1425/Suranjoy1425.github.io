@@ -9,7 +9,8 @@ In recent years, the escalating environmental concerns associated with single-us
 
 - **Advanced functional food packaging**
 - **Food safety & security**
-- **Biopolymer processing and modifications**
+- **Biomass pretreatment and modifications**
+- **Natural fibres- or bioplastics-based biocomposites**
 - **Functional nanostructured polymers**
 - **Electrospinning technology**
 - **Biodegradable/compostable sustainable polymers for packaging, food, or agriculture applications**
