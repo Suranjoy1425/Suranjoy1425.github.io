@@ -3,17 +3,17 @@ title: "RESEARCH"
 layout: post
 categories: media
 ---
-In recent years, the escalating environmental concerns associated with single-use plastic packaging have prompted an urgent need for sustainable alternatives. My overarching research goal is to harness the untapped potential of locally available food and agricultural biomass wastes to create biodegradable biobased food packaging with advanced active functionalities, addressing crucial challenges in the field. Specifically, I aim to develop innovative packaging solutions that cater to diverse needs, including water-resistant paper-based packaging tailored for high-moisture foods, packaging incorporating super absorbents for enhanced freshness, and packaging with controlled release functions of active components, such as antimicrobials and insecticides. 
+In recent years, the escalating environmental concerns associated with single-use plastic packaging/products have prompted an urgent need for sustainable alternatives. My overarching research goal is to harness the untapped potential of locally available food, agricultural, and industrial biomass wastes to create advanced functional biobased materials. Primary research areas are the functionalization of cellulose and lignin-based materials. Special interest in electrospinning technique to develop biobased filter systems for applications such as antimicrobial and highly efficient air filters, and functional bioactive carrier systems in packaging applications. 
 
 # RESEARCH INTEREST 
 
-- **Climate impact assessment of water and environmental resources**
-- **Hydroclimatology**
-- **Remote Sensing**
-- **Hydrologic Extremes**
-- **Hydrological/hydraulic modeling**
-- **Deep Learning**
-- **Statistical analysis**
+- **Advanced functional food packaging**
+- **Food safety & security**
+- **Biopolymer processing and modifications**
+- **Functional nanostructured polymers**
+- **Electrospinning technology**
+- **Biodegradable/compostable sustainable polymers for packaging, food, or agriculture applications**
+
 
 
 # RESEARCH EXPERIENCES
