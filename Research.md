@@ -3,6 +3,7 @@ title: "RESEARCH"
 layout: post
 categories: media
 ---
+<img align="left" width="200" src="/File/Profile.jpg">
 In recent years, the escalating environmental concerns associated with single-use plastic packaging/products have prompted an urgent need for sustainable alternatives. My overarching research goal is to harness the untapped potential of locally available food, agricultural, and industrial biomass wastes to create advanced functional biobased materials. Primary research areas are the functionalization of cellulose and lignin-based materials. Special interest in electrospinning technique to develop biobased filter systems for applications such as antimicrobial and highly efficient air filters, and functional bioactive carrier systems in packaging applications. 
 
 # RESEARCH INTEREST 
