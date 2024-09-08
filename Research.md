@@ -20,23 +20,3 @@ In recent years, the escalating environmental concerns associated with single-us
 - **Biodegradable/compostable sustainable polymers for packaging, food, or agriculture applications**
 
 
-
-# RESEARCH EXPERIENCES
-<div>
-    <img align="left" width="200" src="/File/VIC.PNG" style="margin-right: 20px;">    
-    <p><strong>Model Development of Variable Infiltration Capacity (VIC)</strong><br>
-    Drainage or tile drainage for sub-surface is essential for water nutrient management in high-water table areas.</p>
-</div>
-
-<div style="clear:both;"></div>
-
-<div>
-   <img align="left" width="200" src="/File/PhD.jpg" style="margin-right: 20px;">    
-    <p><strong>Climate Change Implications on Rainfall and its Characteristics</strong><br>
-    The study developed high-temporal resolution precipitation data using in-situ and NetCDF datasets, and created <a href="https://github.com/bijoychandraAU/PrecipTDS">PrecipTDS</a>, an R-package for generating future 15-minute rainfall projections from various climate models. It quantified mid-century rainfall erosivity under climate change in the Southeast United States and developed artificial neural network-powered rainfall intensity-duration-frequency curves for future climate scenarios. Additionally, the study quantified uncertainty in these curves using bootstrapping resampling techniques.</p>
-</div>
-
-<div style="clear:both;"></div>
-
-
-
