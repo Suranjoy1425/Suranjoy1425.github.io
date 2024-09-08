@@ -1,5 +1,5 @@
 ---
-title: "ABOUT ME"
+title: "ABOUT ME:"
 layout: post
 categories: media
 ---
