@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Publications.md", title: "Publications"}
   - {file: "Teaching.md", title: "Teaching & Mentoring"}
   - {file: "Honors_awards.md", title: "Honors & Awards"}  
-  - {file: "Services.md", title: "Services"}  
+  - {file: "Services.md", title: "Membership & Services"}  
   - {file: "index.md", title: "Home"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
