@@ -6,7 +6,7 @@ title: "Publications"
 ## Peer-reviewed
 [21]. Colaruotolo, L. A., **Singh, S. S.**, Dobson, S., Lim, L. T., Joye, I. J., Rogers, M. A., & Corradini, M. G. (2024). Mapping deterioration in electrospun zein nonwoven nanostructures encapsulating corn oil. **Current Research in Food Science**, 9, 100801. [doi.org/10.1016/j.crfs.2024.100801]( https://doi.org/10.1016/j.crfs.2024.100801)
 
-[20].	**Singh, S. S.**, Zaitoon, A., Lim, L.T., Manickavasagan, A., & Sharma, S. (2023). Lignocellulosic Biomass (LCB) as a Feedstock for Cellulose and Lignin:  Pre-treatment, Modifications, and Potential Applications. **Science of the Total Environment**. (Submitted)
+[20].	**Singh, S. S.**, Zaitoon, A., Lim, L.T., Manickavasagan, A., & Sharma, S. (2023). Lignocellulosic Biomass (LCB) as a Feedstock for Cellulose and Lignin:  Pre-treatment, Modifications, and Potential Applications. **International Journal of Biological Macromolecules**. (Under Review)
 
 [19].	Zaitoon, A., Jabeen, A., **Singh, S. S.**, Scott-Dupree, C., & Lim, L. T. (2024). Deliquescence-induced release of ethyl formate and chlorine dioxide gases from their precursors-loaded sachets for in-package fumigation of spotted-wing drosophila (_Drosophila Suzukii_ Matsumura). **Packaging Technology and Science**, 1-12. [doi.org/10.1002/pts.2790](https://doi.org/10.1002/pts.2790) 
 
