@@ -12,6 +12,10 @@ In recent years, the escalating environmental concerns associated with single-us
 
 ## RESEARCH INTERESTS
 
+<div>
+    <img align="right" width="200" src="/File/Nanospi.jpg" style="margin-right: 20px;">
+</div>
+
 - **Advanced functional food packaging**
 - **Food safety & security**
 - **Biomass pretreatment and modifications**
