@@ -18,7 +18,9 @@ categories: media
 - **Guest Editor**: *Frontiers in Sustainable Food Systems*, Edition - Plant-Based Lipids for Sustainable Food Products
 - **Journal Reviewer**:
   - *Food Chemistry*
+  - *Current Research in Food Science*
   - *Journal of Polymers and the Environment*
+  - *Food Packaging and Shelf Life*
   - *Journal of Food Process Engineering*
   - *Journal of Food Processing and Preservation*
   - *Cleaner Materials*
